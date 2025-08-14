@@ -90,22 +90,22 @@ Me chamo Pedro Henrique Lopes Sabainsk, tenho 20 anos. Concluí o ensino médio 
   <a href = "mailto:pedrosabainsk34@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/pedro-sabainsk-b56a8a351" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Pedr0Sabainsk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedr0Sabainsk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+ <p align="center">
+  <a href="https://github.com/Pedr0Sabainsk">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=Pedr0Sabainsk&show_icons=true&theme=tokyonight&hide_title=true&locale=pt-br"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedr0Sabainsk&layout=compact&theme=tokyonight&locale=pt-br"
+    />
+  </a>
+</p>
 
 </p>
