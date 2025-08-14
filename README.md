@@ -87,13 +87,8 @@ Me chamo Pedro Henrique Lopes Sabainsk, tenho 20 anos. Concluí o ensino médio 
 
  ## Contato:
 
-  <a href="https://www.linkedin.com/in/pedro-sabainsk-b56a8a351" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:pedrosabainsk34@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
+  <a href = "mailto:pedrosabainsk34@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pedro-sabainsk-b56a8a351" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ### 📊 Estatísticas
 
