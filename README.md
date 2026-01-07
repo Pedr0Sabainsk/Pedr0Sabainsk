@@ -92,20 +92,4 @@ Me chamo Pedro Henrique Lopes Sabainsk, tenho 20 anos. Concluí o ensino médio 
 
 ---
 
-### 📊 Estatísticas
 
-<p>
- <p align="center">
-  <a href="https://github.com/Pedr0Sabainsk">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=Pedr0Sabainsk&show_icons=true&theme=tokyonight&hide_title=true&locale=pt-br"
-    />
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedr0Sabainsk&layout=compact&theme=tokyonight&locale=pt-br"
-    />
-  </a>
-</p>
-
-</p>
