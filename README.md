@@ -60,7 +60,7 @@
 
  ## 🌐Idiomas:
  - **Português**: Nativo  
- - **Inglês**: Intermediário-Avançado (leitura, escrita, conversação técnica)  
+ - **Inglês**: Avançado (leitura, escrita, conversação técnica)  
  - **Espanhol**: Básico (compreensão escrita e conversação simples)
 
 ---
