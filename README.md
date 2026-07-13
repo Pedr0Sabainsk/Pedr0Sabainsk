@@ -1,9 +1,4 @@
 # 👩🏻‍💻 Pedro Sabainsk
-
-**`Estudante de TI | Desenvolvedor em aprendizado FullStack`**
-
-Me chamo Pedro Henrique Lopes Sabainsk, tenho 20 anos. Concluí o ensino médio na ETEC LAURO GOMES, com o curso técnico em eletrônica. Atualmente, estou cursando Sistemas de informação na Mackenzie.
-
 ---
 
 ## 💻 Linguagens | Ferramentas:
@@ -56,10 +51,6 @@ Me chamo Pedro Henrique Lopes Sabainsk, tenho 20 anos. Concluí o ensino médio 
 ---
 
 ## 🎓Experiência Acadêmica:
-
-- **🟥Mackenzie | Graduação em Sistemas de informação**  
- 🗓️ *Fev 2025 – Presente*  
-  - Curso focado em programação, gestão de projetos e análise de dados;   
 
 - **🟩ETEC LAURO GOMES | Ensino Técnico em Eletônica**  
   *Fev 2020 – Nov 2022*  
